@@ -6,8 +6,6 @@
 - **Challenges faced**: I was my first time 😊
 - **Resources used**: https://chrissycodes.hashnode.dev/
 <br>
-<br>
-<br>
 -----
 <br>
 
