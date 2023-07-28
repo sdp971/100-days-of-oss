@@ -7,7 +7,7 @@
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Day 1](day-01.md)
-  - [Day 2](#day-2)
+  - [Day 2](day-02.md)
   - [Day 3](#day-3)
   - [Day 4](#day-4)
   - [Day 5](#day-5)
